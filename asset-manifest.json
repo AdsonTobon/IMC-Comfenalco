@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IMC-Comfenalco/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/IMC-Comfenalco/static/js/main.4e06c55e.chunk.js",
+    "main.js.map": "/IMC-Comfenalco/static/js/main.4e06c55e.chunk.js.map",
+    "runtime-main.js": "/IMC-Comfenalco/static/js/runtime-main.ce41c4d3.js",
+    "runtime-main.js.map": "/IMC-Comfenalco/static/js/runtime-main.ce41c4d3.js.map",
+    "static/js/2.09d32d23.chunk.js": "/IMC-Comfenalco/static/js/2.09d32d23.chunk.js",
+    "static/js/2.09d32d23.chunk.js.map": "/IMC-Comfenalco/static/js/2.09d32d23.chunk.js.map",
+    "index.html": "/IMC-Comfenalco/index.html",
+    "precache-manifest.e2b632c7bbefab07b94553bd36ec91cf.js": "/IMC-Comfenalco/precache-manifest.e2b632c7bbefab07b94553bd36ec91cf.js",
+    "service-worker.js": "/IMC-Comfenalco/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/IMC-Comfenalco/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.09d32d23.chunk.js.LICENSE.txt": "/IMC-Comfenalco/static/js/2.09d32d23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce41c4d3.js",
+    "static/js/2.09d32d23.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4e06c55e.chunk.js"
+  ]
+}
